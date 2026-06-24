@@ -1,4 +1,4 @@
-# Additional Course Materials
+# Further Reading
 
 Supplementary readings, videos, and resources organized by lecture.
 
@@ -35,7 +35,7 @@ A few links following up on this lecture:
 
 ## Lecture 3 — 2.5D Vision and Depth Prediction
 
-*Coming soon.*
+*No extra links curated for this lecture yet — suggestions welcome via issue or PR.*
 
 ---
 
@@ -65,7 +65,7 @@ A selection of talks on the topics covered in this lecture:
 
 ## Lecture 5 — Deep Learning Architectures for Point Cloud Processing
 
-*Coming soon.*
+*No extra links curated for this lecture yet — suggestions welcome via issue or PR.*
 
 ---
 
@@ -95,28 +95,22 @@ A few links following up on today's lecture:
 
 ## Lecture 7 — Parametric Polygon Mesh Models for Human Bodies
 
-*Coming soon.*
+*No extra links curated for this lecture yet — suggestions welcome via issue or PR.*
 
 ---
 
 ## Lecture 8 — Implicit 3D Representations
 
-*Coming soon.*
+*No extra links curated for this lecture yet — suggestions welcome via issue or PR.*
 
 ---
 
 ## Lecture 9 — Gaussian Splatting for Scene Reconstruction
 
-*Coming soon.*
+*No extra links curated for this lecture yet — suggestions welcome via issue or PR.*
 
 ---
 
-## Lecture 10 — A Brief Introduction to Diffusion Models
+## Lecture 10 — Diffusion Models and Their Use for 3D Data
 
-*Coming soon.*
-
----
-
-## Lecture 11 — Generative Models for 3D Data
-
-*Coming soon.*
+*No extra links curated for this lecture yet — suggestions welcome via issue or PR.*
